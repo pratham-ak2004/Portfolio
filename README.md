@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pratham A Kadekar</h1>
 <h3 align="center">A passionate Machine Learning and frontend developer student from India</h3>
 
-- 🔭 I’m currently working on [web page for restaurant menu](https://github.com/pratham-ak2004/restaurant-menu)
+- 🔭 I’m currently working on [URL Shortner](https://github.com/pratham-ak2004/URL-Shortner-backend)
 
 - 🌱 I’m currently learning **Javascript, React, Tensorflow**
 
-- 👯 I’m looking to collaborate on [frontend react and Machine Learing concepts](https://github.com/pratham-ak2004)
+- 👯 I’m looking to collaborate on [Web development](https://github.com/pratham-ak2004)
 
-- 🤝 I’m looking for help with [Backend web development using java](https://github.com/pratham-ak2004/sms-spam-classifier)
+- 🤝 I’m looking for help with [UI/UX design](https://github.com/pratham-ak2004)
 
 - 👨‍💻 All of my projects are available at [https://github.com/pratham-ak2004](https://github.com/pratham-ak2004)
 
@@ -44,6 +44,12 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://tinyurl.com/yjmyakup" alt="css3" width="40" height="40"/> 
     </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://tinyurl.com/2twvrnvy" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> 
+    </a> 
     <!---
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -52,14 +58,8 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://tinyurl.com/2twvrnvy" alt="html5" width="40" height="40"/> 
-    </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40"/> 
     </a> 
     <!---
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
@@ -77,11 +77,12 @@
     </a> 
     --->
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAEDCAMAAABQ/CumAAAAeFBMVEX///8TB1QAAEb/ygDnBIgPAFLNzNYTAFnQ0NgMAFcAAETb2eP39/oUBlfV1N7/xwDmAID/9tfLydcjG17/4Yz//vbCwM3ykcL61OfoBIwyKmgAADYAAE0AAErx8PTIxdT/+un/34T85/Lyir/lAHv50eX+9fkpH2Ma8J+4AAACEklEQVR4nO3dzVIaQRSAUYNCEIGoiYmJivnP+79hFrmLVHELZ6pnmG483xqaPruh5lb32ZkkSZIkSZIkvb52z7dZU2+rT4uH2X6rx6m31afF7M1+87dTb6tPCDWEUEMINYRQQ5MS1tu0nqtMSrhKn26e1v1WmZawyn58g4DQL4QIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECOFA6cvM5a4nYb29yjoO4WmVvM58WPQkbF8e+RqPcDlPVp4t+xLS/W0QEBCqI8yTLpsizN8n/WmJ0CEEBAQEBAQEBIT2CF+/fci6a4hw8y7rvC3CeRYCAgICAgICAgICAgICwlCEtJYIdzdp/3+kdkKHToFQ+RjJMCEcCKF7CAdC6B7CgRC6Nylh9zGtJUJ6uNCsnsOFhhkvPAHC9x+fsloi/Pp5nXTREuH++iLpMwICAgICAgICAgICAgKC/87R7/u0lggdQkBAQEBAQEB4dYQON67UTqh9KuwkDlRBQED4R8gOF5o3Rdh8yepLGO0ez6MNPO+WQ9w3NilhvBAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyEKJt+lL0SNeADUR4TG9cGWXHew10AkPP4aRBO9ohEuOFUEMINYRQQwg1dAKEDvd41t5t2u7lL0qSJEmSJEnSyfUXeomSFq0EzbkAAAAASUVORK5CYII=" alt="pandas" width="40" height="40"/> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpWF8OWqvut1-NgrphCoBJbCTG6vIrmFiqiqKnSFkpkR60mZzw7jEMFnQttRVY8LpOZKE&usqp=CAU" alt="pandas" width="40" height="40"/> 
     </a> 
+    <!--
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> 
-    </a> 
+    </a> -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://icons-for-free.com/iconfiles/png/512/super+tiny+icons+python-1324450764865983278.png" alt="python" width="40" height="40"/> 
     </a> 
@@ -91,14 +92,13 @@
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
     </a> 
-    <!---
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
     </a> 
-    --->
+    <!---
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-    </a> 
+    </a> -->
 </p>
 
 ### Still more to learn ...
@@ -123,12 +123,15 @@
 [![PDF-Reader](https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=PDF-Reader)](https://github.com/pratham-ak2004/PDF-Reader)
 --->
 
-<a href="https://github.com/pratham-ak2004/restaurant-menu">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=restaurant-menu" />
+<a href="https://github.com/pratham-ak2004/URL-Store">
+  <img height=120 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=URL-store" />
+</a>
+<a href="https://github.com/pratham-ak2004/URL-Shortner-backend">
+  <img height=120 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=URL-Shortner-backend" />
 </a>
 <a href="https://github.com/pratham-ak2004/sms-spam-classifier">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=sms-spam-classifier" />
+  <img height=120 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=sms-spam-classifier" />
 </a>
 <a href="https://github.com/pratham-ak2004/PDF-Reader">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=PDF-Reader" />
+  <img height=120 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=PDF-Reader" />
 </a>
