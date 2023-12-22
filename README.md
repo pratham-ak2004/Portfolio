@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pratham A Kadekar</h1>
 <h3 align="center">A passionate Machine Learning and frontend developer student from India</h3>
 
-- 🔭 I’m currently working on [URL Shortner](https://github.com/pratham-ak2004/URL-Shortner-backend)
+<div align="center">
+<img align="center" src="https://github.com/pratham-ak2004/pratham-ak2004/assets/124170443/33c83b40-4880-475a-828f-f09cc2b188e2"/>
+</div>
+
+
+- 🔭 I’m currently working on [E-Mail service](https://github.com/pratham-ak2004)
 
 - 🌱 I’m currently learning **Javascript, React, Tensorflow**
 
@@ -123,6 +128,9 @@
 [![PDF-Reader](https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=PDF-Reader)](https://github.com/pratham-ak2004/PDF-Reader)
 --->
 
+<a href="https://github.com/pratham-ak2004/Tensorflow-windows-installation-guide">
+  <img height=120 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=Tensorflow-windows-installation-guide" />
+</a>
 <a href="https://github.com/pratham-ak2004/URL-Store">
   <img height=120 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=URL-store" />
 </a>
