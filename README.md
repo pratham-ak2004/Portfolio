@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Typescript, SvelteKit, Tensorflow**
 
-- 👯 I’m looking to collaborate on ***[Web development](https://github.com/pratham-ak2004)***
+- 👯 I’m looking to collaborate on **_[Web development](https://github.com/pratham-ak2004)_**
 
 <!-- - 🤝 I’m looking for help with [UI/UX design](https://github.com/pratham-ak2004) -->
 
-- 👨‍💻 All of my projects are available at ***[My GitHub account](https://github.com/pratham-ak2004)***
+- 👨‍💻 All of my projects are available at **_[My GitHub account](https://github.com/pratham-ak2004)_**
 
 - 💬 Ask me about **C++, Typescript and machine learning**
 
@@ -116,24 +116,26 @@
 
 [![Pratham's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-ak2004&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --->
-<div class="status">
+<div class="status" style="grid-auto-columns:auto;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pratham-ak2004&theme=tokyonight&hide_border=true&include_all_commits=true&include_private=true" />
+    <img height=200 align="center" style="margin:5px" src="https://github-readme-stats.vercel.app/api?username=pratham-ak2004&theme=tokyonight&hide_border=true&include_all_commits=true&include_private=true" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratham-ak2004&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true&include_all_commits=true&include_private=true" />
-    </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-ak2004&theme=tokyonight&hide_border=true" />
+    <img height=200 align="center" style="margin:5px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratham-ak2004&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true&include_all_commits=true&include_private=true" />
     </a>
 </div>
 
 ## Records
 
-[![](https://visitcount.itsvg.in/api?id=pratham-ak2004&icon=2&color=0)](https://visitcount.itsvg.in)<br>
+<!-- [![](https://visitcount.itsvg.in/api?id=pratham-ak2004&icon=2&color=0)](https://visitcount.itsvg.in)<br> -->
 
-<div class="status">
+<div class="status" style="display:flex;flex-direction:column">
+    <a href="https://github.com/anuraghazra/convoychat">
     <img src="https://github-contributor-stats.vercel.app/api?username=pratham-ak2004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true">
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-ak2004&theme=tokyonight&hide_border=true" />
+    </a>
 </div>
 
 ## Top Repositories
@@ -143,7 +145,7 @@
 [![SMS Spam Classifier](https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=sms-spam-classifier)](https://github.com/pratham-ak2004/sms-spam-classifier)
 [![PDF-Reader](https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=PDF-Reader)](https://github.com/pratham-ak2004/PDF-Reader)
 --->
-<div class="repos">
+<div class="repos" style="grid-auto-columns: auto;">
     <a href="https://github.com/pratham-ak2004/Run">
     <img height=120 width=350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-ak2004&repo=Run&theme=tokyonight&hide_border=false" />
     </a>
@@ -177,12 +179,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pratham_ak2004)
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/a_kadekar1010)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pratham.ak2004)
-
-<style>
-      .status{
-        grid-auto-columns: auto;
-      }
-      .status img{
-        margin: 5px;
-      }
-</style>
